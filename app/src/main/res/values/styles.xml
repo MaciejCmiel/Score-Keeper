@@ -1,0 +1,19 @@
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#149fcc</item>
+        <item name="colorPrimaryDark">#149fcc</item>
+        <item name="colorButtonNormal">#2ba8d1</item>
+    </style>
+
+    <style name="ButtonTheme" >
+        <item name="android:layout_marginLeft">22dp</item>
+        <item name="android:layout_marginRight">22dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:background">@drawable/button_bg</item>
+
+    </style>
+
+</resources>

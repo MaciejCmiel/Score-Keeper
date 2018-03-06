@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score-Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="free_throw">FREE THROW</string>
+    <string name="reset_score">reset</string>
+
+
+</resources>
