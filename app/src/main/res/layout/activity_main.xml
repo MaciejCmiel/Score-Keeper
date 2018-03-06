@@ -46,14 +46,14 @@
                     style="@style/ButtonTheme"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="+3 Points" />
+                    android:text="@string/plus_3" />
 
                 <Button
                     android:id="@+id/two_a_button"
                     style="@style/ButtonTheme"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="+2 Points" />
+                    android:text="@string/plus_2" />
 
                 <Button
                     android:id="@+id/one_a_button"
@@ -101,14 +101,14 @@
                     style="@style/ButtonTheme"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="+3 Points" />
+                    android:text="@string/plus_3" />
 
                 <Button
                     android:id="@+id/two_b_button"
                     style="@style/ButtonTheme"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="+2 Points" />
+                    android:text="@string/plus_2" />
 
                 <Button
                     android:id="@+id/one_b_button"

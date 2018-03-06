@@ -5,6 +5,9 @@
     <string name="team_b">Team B</string>
     <string name="free_throw">FREE THROW</string>
     <string name="reset_score">reset</string>
+    <string name="plus_3">+3 Points</string>
+    <string name="plus_2">+2 Points</string>
+
 
 
 </resources>
